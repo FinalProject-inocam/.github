@@ -5,9 +5,10 @@
 
 # INNO-Motors
 
+
 <div align="center">
-  <img src="./img/003.png" width="49%"/>
-  <img src="./img/000.png" width="49%"/>
+  <img src="https://raw.githubusercontent.com/FinalProject-inocam/.github/main/profile/img/003.png" width="49%"/>
+  <img src="https://raw.githubusercontent.com/FinalProject-inocam/.github/main/profile/img/000.png" width="49%"/>
 </div>
 
 ## 프로젝트 소개
