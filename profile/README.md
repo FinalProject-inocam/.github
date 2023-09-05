@@ -1,4 +1,4 @@
-<img src="./img/002.png"/>
+<img src="https://raw.githubusercontent.com/FinalProject-inocam/.github/main/profile/img/002.png"/>
 
 
 <br/><br/><br/>
@@ -30,28 +30,28 @@
 
 <br/>
 <div align="center">
-<img src="./img/004.png" width="49%"/>
-<img src="./img/005.png" width="49%"/>
+<img src="https://raw.githubusercontent.com/FinalProject-inocam/.github/main/profile/img/004.png" width="49%"/>
+<img src="https://raw.githubusercontent.com/FinalProject-inocam/.github/main/profile/img/005.png" width="49%"/>
 </div>
 
 ## 프로젝트 기술도입과 의사결정, 도전 및 트러블 슈팅
 <br/>
 <div align="center">
-<img src="./img/006.png" width="33%"/>
-<img src="./img/007.png" width="33%"/>
-<img src="./img/008.png" width="33%"/>
+<img src="https://raw.githubusercontent.com/FinalProject-inocam/.github/main/profile/img/003.png" width="33%"/>
+<img src="https://raw.githubusercontent.com/FinalProject-inocam/.github/main/profile/img/007.png" width="33%"/>
+<img src="https://raw.githubusercontent.com/FinalProject-inocam/.github/main/profile/img/008.png" width="33%"/>
 </div>
 
-<img src="./img/009.png"/> 
+<img src="https://raw.githubusercontent.com/FinalProject-inocam/.github/main/profile/img/009.png"/> 
 <div align="center">
-<img src="./img/010.png" width="49.5%"/>
-<img src="./img/011.png" width="49.5%"/>
+<img src="https://raw.githubusercontent.com/FinalProject-inocam/.github/main/profile/img/010.png" width="49.5%"/>
+<img src="https://raw.githubusercontent.com/FinalProject-inocam/.github/main/profile/img/011.png" width="49.5%"/>
 </div>
 <div align="center">
-<img src="./img/012.png" width="49.5%"/>
-<img src="./img/013.png" width="49.5%"/>
+<img src="https://raw.githubusercontent.com/FinalProject-inocam/.github/main/profile/img/012.png" width="49.5%"/>
+<img src="https://raw.githubusercontent.com/FinalProject-inocam/.github/main/profile/img/013.png" width="49.5%"/>
 </div>
 <div align="center">
-<img src="./img/014.png" width="49.5%"/>
-<img src="./img/015.png" width="49.5%"/>
+<img src="https://raw.githubusercontent.com/FinalProject-inocam/.github/main/profile/img/014.png" width="49.5%"/>
+<img src="https://raw.githubusercontent.com/FinalProject-inocam/.github/main/profile/img/015.png" width="49.5%"/>
 </div>
