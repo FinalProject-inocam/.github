@@ -39,7 +39,7 @@
 ## 프로젝트 기술도입과 의사결정, 도전 및 트러블 슈팅
 <br/>
 <div align="center">
-<img src="https://raw.githubusercontent.com/FinalProject-inocam/.github/main/profile/img/003.png" width="33%"/>
+<img src="https://raw.githubusercontent.com/FinalProject-inocam/.github/main/profile/img/006.png" width="33%"/>
 <img src="https://raw.githubusercontent.com/FinalProject-inocam/.github/main/profile/img/007.png" width="33%"/>
 <img src="https://raw.githubusercontent.com/FinalProject-inocam/.github/main/profile/img/008.png" width="33%"/>
 </div>
